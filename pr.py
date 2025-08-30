@@ -9,7 +9,7 @@ this will go to master
 
 #code in feature-1 on 10th line for merge conflict checking changing this line again(f-2, next merge keep this)
 
-this is for rebase checking in f-2
+this is for rebase
 
 #hiii
 
