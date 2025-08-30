@@ -18,3 +18,6 @@ new code f-1 (now updating merge from f-1 (in f-2)
 
 
 i am in f-1 i changed my code and rebased it to f-2 and now it is again changed
+
+
+1st time changing in f-1
