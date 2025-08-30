@@ -22,4 +22,4 @@ i am in f-1 i changed my code and rebased it to f-2 and now it is again changed
 
 1st time changing in f-1 and now f2 is updating it again after taking f-1 changes
 
-f-1 for merge updated in f-2
+f-1 for the merge updated in f-2
