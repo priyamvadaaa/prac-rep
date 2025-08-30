@@ -7,4 +7,6 @@ this will go to master
 '''
 
 
-hiii
+#code in feature-1 on 10th line for merge conflict checking
+
+#hiii
