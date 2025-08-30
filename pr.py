@@ -7,4 +7,5 @@ this will go to master
 '''
 
 
+#code in feature-2 on 10th line for merge conflict checking
 hiii
